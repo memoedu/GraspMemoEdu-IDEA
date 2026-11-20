@@ -1,0 +1,5 @@
+{
+  "api_origin": "https://124.221.144.155",
+  "manifest": "<absolute path to the matching authorized Academy manifest.json>",
+  "data_dir": "<absolute path to a private writable GraspMemoEdu Academy directory>"
+}
