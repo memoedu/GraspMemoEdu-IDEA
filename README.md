@@ -2,7 +2,7 @@
 
 GraspMemoEdu Academy Bridge 在 IntelliJ IDEA 中打开网站上的练习，并将 IDEA 的作答检查结果回传给当前学习账号。
 
-从 [GraspMemoEdu 安装指南](https://memoedu.github.io/GraspMemoEdu-Pages/#/idea-setup)复制提示词交给本机 Agent。预编译插件与 SHA-256 在 [Releases](https://github.com/memoedu/GraspMemoEdu-IDEA/releases)。
+从 GraspMemoEdu 的计算机科学指南打开 [IntelliJ IDEA 安装小节](https://memoedu.github.io/GraspMemoEdu-Pages/#/subjects/cs/guide?section=idea-setup)，复制提示词交给本机 Agent。预编译插件与 SHA-256 在 [Releases](https://github.com/memoedu/GraspMemoEdu-IDEA/releases)。
 
 ## 兼容与安装入口
 
